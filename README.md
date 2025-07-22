@@ -13,7 +13,7 @@ Selamat datang! Temukan produk terbaik kami di marketplace favorit Anda. Klik ta
 
 ## 👕 Gambar Produk Unggulan
 
-![Jaket Pria | Men's Boundary A/Div Anorak Jacket - Rust Brown, L](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2025/5/24/679288e2-f904-429a-a4d9-ece75371129a.png.webp "Jaket Pria | Men's Boundary A/Div Anorak Jacket - Rust Brown, L")
+![Jaket Pria - Men's Boundary A/Div Anorak Jacket - Rust Brown, L](https://images.tokopedia.net/img/cache/500-square/VqbcmM/2025/5/24/679288e2-f904-429a-a4d9-ece75371129a.png.webp "Jaket Pria - Men's Boundary A/Div Anorak Jacket - Rust Brown, L")
 
 ---
 
