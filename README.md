@@ -1,8 +1,8 @@
 # Belajar KOMPUTER
 
-## Pengeluaran Bengkel 
-- https://shopee.co.id/jackbranded.id
-- https://www.tokopedia.com/jackbrandedsupply
+## Toko Kami 
+- [Kunjungi shopee](https://shopee.co.id/jackbranded.id)
+- [kunjungi tokopedia](https://www.tokopedia.com/jackbrandedsupply)
 
 ### Gambar Baju
 ![KHAIR](https://contents.mediadecathlon.com/p2157319/k$45a8143f29ae498e05be9c1588d95135/
