@@ -1,0 +1,3 @@
+[submodule "web-profile"]
+	path = web-profile
+	url = https://github.com/jjkbrand/web-profile.git
